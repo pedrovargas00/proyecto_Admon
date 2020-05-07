@@ -1,3 +1,28 @@
 body {
-	background: red;
+	background: white;
+	font-family: 'Jost';
+}
+.cabecera {
+	background: #1999c2;
+	color:white;
+	margin: 20px 140px 20px 140px;
+	text-align: center;
+}
+
+.menu{
+	display: flex;
+	justify-content: center;
+}
+
+ul{
+	list-style: none;
+	display : flex;
+}
+li{
+	padding : 10px;
+}
+
+a{
+	text-decoration: none;
+	color: #1999c2;
 }
