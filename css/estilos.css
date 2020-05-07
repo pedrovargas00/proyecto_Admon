@@ -14,7 +14,7 @@ body {
 	justify-content: center;
 }
 
-ul{
+.list-men{
 	list-style: none;
 	display : flex;
 }
@@ -25,4 +25,16 @@ li{
 a{
 	text-decoration: none;
 	color: #1999c2;
+}
+
+.fin-pag{
+	background: #1999c2;
+	justify-content: center;
+}
+
+.list-foot{
+	list-style : none;
+	text-align: center;
+	color: white;
+	font-size: 20px;
 }
