@@ -38,3 +38,39 @@ a{
 	color: white;
 	font-size: 20px;
 }
+.registro{
+	display: flex;
+	justify-content: center;
+}
+
+table {
+	width :50%;
+	/*margin-left: 400px;*/
+	/*margin-bottom: 300px;*/
+	/*border: 1px solid #1999c2;*/
+}
+
+th,td {
+	width: 25%;
+	text-align: center;
+	vertical-align: top;
+}
+.celdas th, .celdas0 th {
+	border-bottom: 2px solid #1999c2;
+	border-right: 2px solid #1999c2
+}
+
+.celdas2 td{
+	border-right: 2px solid #1999c2;
+}
+
+input {
+	width: 90%;
+	border-style: none;
+	border-bottom: 1px solid #000;
+}
+.ingresar {
+	padding-top: 20px;
+	text-align: center;
+}
+
